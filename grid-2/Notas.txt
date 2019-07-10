@@ -1,0 +1,35 @@
+NOTAS PARA EL EXAMEN - BBC
+==================================
+
+Colores
+==================================
+- Home     -> deepskyblue
+- News     -> orangered
+- Culture  -> mediumpurple
+- Future   -> limegreen
+- Travel   -> deeppink
+
+
+Fuente
+==================================
+- Fuente    -> Arial,Helvetica,freesans,sans-serif
+
+
+Header
+==================================
+- Alto     -> 40px
+- Color    -> black
+- Debe quedarse fijo al hacer scroll.
+
+
+Contact Us
+==================================
+- Fondo imagen      -> black      , opacidad 80%
+- Fondo color       -> deepskyblue, opacidad 50%
+- Botón             -> #ffcc00
+
+
+Plus
+==================================
+- Agregar un submenú básico
+- Agregar efectos con "hover"
